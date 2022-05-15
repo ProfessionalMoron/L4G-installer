@@ -1,7 +1,7 @@
 # L4G-installer
 
 Made for Debian 11 running Swizzin(needed for retrieving passwords via swizzin commands). SHOULD also work with Debian 10 however no quarantees.
-
+Also makes a alias for easy runs  
 How to run:  
 Elevate with   
 
@@ -11,6 +11,6 @@ and then run
 
 bash <(curl -sL https://gist.githubusercontent.com/ProfessionalMoron/ee6c961c356cbf5536fdafffa71ed62d/raw/76d610c581690ac1382776386c4ce2734d6c4be2/INSTALL_L4G.sh)
 
-
+After that restart your ssh session for alias to work
 
 
